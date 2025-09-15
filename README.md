@@ -1,6 +1,6 @@
 # Firebase Token Server
 
-A secure server for generating Firebase custom authentication tokens.
+A secure server for generating Firebase custom authentication tokens. Generates custom tokens that you can use to login to Firebase, which is great for personal authentication systems.
 
 ## Setup
 
